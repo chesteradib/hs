@@ -1,0 +1,57 @@
+/*** SOME GENERIC STYLES ***/
+@mixin customer-area-base-box {
+  @include box-shadow;
+  background: white;
+  padding: 1rem;
+}
+@mixin customer-area-box {
+  @include customer-area-base-box;
+  font-size: $font-size-sm;
+  color: $gray;
+}
+.table-labeled {
+  th {
+    vertical-align: middle;
+  }
+  td {
+    vertical-align: middle;
+  }
+  .label {
+    font-weight: 400;
+    border-radius: 3px;
+    font-size: inherit;
+    padding: 0.25rem 0.375rem;
+    margin: 0.125rem;
+    color: white;
+    white-space: nowrap;
+  }
+}
+
+
+/*** Most of the customer accpunt pages ***/
+.page-customer-account {
+  #content {
+    @include customer-area-box;
+    .order-actions {
+      a {
+        padding: 0 0.125rem;
+      }
+    }
+  }
+}
+
+
+
+/*** FOOTER ***/
+.page-footer {
+  .account-link {
+    margin-right: 1rem;
+    i {
+      font-size: $base-font-size;
+    }
+    span {
+      font-size: $font-size-sm;
+      vertical-align: middle;
+    }
+  }
+}

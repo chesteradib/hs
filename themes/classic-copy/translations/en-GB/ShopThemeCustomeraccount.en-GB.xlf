@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/var/www/html/gitpresta/themes/classic-copy/templates/customer/guest-tracking.tpl" source-language="en-GB" target-language="en-GB" datatype="plaintext">
+    <body>
+      <trans-unit id="3aedb5d3a3e36f7bb6baf1fbb9497894">
+        <source>Guest Tracking</source>
+        <target>Guest Tracking</target>
+        <note>Context:
+File: /var/www/html/gitpresta/themes/classic-copy/templates/customer/guest-tracking.tpl:4</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/html/gitpresta/themes/classic-copy/templates/customer/guest-login.tpl" source-language="en-GB" target-language="en-GB" datatype="plaintext">
+    <body>
+      <trans-unit id="6b10b52dc4d44e780e6e38073668be56">
+        <source>Guest Order Tracking</source>
+        <target>Guest Order Tracking</target>
+        <note>Context:
+File: /var/www/html/gitpresta/themes/classic-copy/templates/customer/guest-login.tpl:4</note>
+      </trans-unit>
+      <trans-unit id="d2948a89e47a4ad7eb8412c1c260ea88">
+        <source>To track your order, please enter the following information:</source>
+        <target>To track your order, please enter the following information:</target>
+        <note>Context:
+File: /var/www/html/gitpresta/themes/classic-copy/templates/customer/guest-login.tpl:10</note>
+      </trans-unit>
+      <trans-unit id="92dbb751eb9457441af82a53f3cfae54">
+        <source>For example: QIIXJXNUI or QIIXJXNUI#1</source>
+        <target>For example: QIIXJXNUI or QIIXJXNUI#1</target>
+        <note>Context:
+File: /var/www/html/gitpresta/themes/classic-copy/templates/customer/guest-login.tpl:28</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/html/gitpresta/themes/classic-copy/templates/customer/_partials/order-messages.tpl" source-language="en-GB" target-language="en-GB" datatype="plaintext">
+    <body>
+      <trans-unit id="41de6d6cfb8953c021bbe4ba0701c8a1">
+        <source>Messages</source>
+        <target>Messages</target>
+        <note>Context:
+File: /var/www/html/gitpresta/themes/classic-copy/templates/customer/_partials/order-messages.tpl:28</note>
+      </trans-unit>
+      <trans-unit id="58b3d8603dffe8484e90c0ca371921ac">
+        <source>Add a message</source>
+        <target>Add a message</target>
+        <note>Context:
+File: /var/www/html/gitpresta/themes/classic-copy/templates/customer/_partials/order-messages.tpl:49</note>
+      </trans-unit>
+      <trans-unit id="d93651d012e77dac5581b08db33195b2">
+        <source>If you would like to add a comment about your order, please write it in the field below.</source>
+        <target>If you would like to add a comment about your order, please write it in the field below.</target>
+        <note>Context:
+File: /var/www/html/gitpresta/themes/classic-copy/templates/customer/_partials/order-messages.tpl:50</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/html/gitpresta/themes/classic-copy/templates/customer/_partials/order-detail-return.tpl" source-language="en-GB" target-language="en-GB" datatype="plaintext">
+    <body>
+      <trans-unit id="fdfac28b5ad628f25649d9c2eb4fc62e">
+        <source>Returned</source>
+        <target>Returned</target>
+        <note>Context:
+File: /var/www/html/gitpresta/themes/classic-copy/templates/customer/_partials/order-detail-return.tpl:205</note>
+      </trans-unit>
+      <trans-unit id="3956298bcfc047e15b0e0d218492ce09">
+        <source>Merchandise return</source>
+        <target>Merchandise return</target>
+        <note>Context:
+File: /var/www/html/gitpresta/themes/classic-copy/templates/customer/_partials/order-detail-return.tpl:236</note>
+      </trans-unit>
+      <trans-unit id="bef8403608dc4cb3ade799f63dd4bf59">
+        <source>If you wish to return one or more products, please mark the corresponding boxes and provide an explanation for the return. When complete, click the button below.</source>
+        <target>If you wish to return one or more products, please mark the corresponding boxes and provide an explanation for the return. When complete, click the button below.</target>
+        <note>Context:
+File: /var/www/html/gitpresta/themes/classic-copy/templates/customer/_partials/order-detail-return.tpl:237</note>
+      </trans-unit>
+      <trans-unit id="1af342a10e8238b722ba844facf5768b">
+        <source>Request a return</source>
+        <target>Request a return</target>
+        <note>Context:
+File: /var/www/html/gitpresta/themes/classic-copy/templates/customer/_partials/order-detail-return.tpl:247</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/html/gitpresta/themes/classic-copy/modules/ps_customersignin/ps_customersignin.tpl" source-language="en-GB" target-language="en-GB" datatype="plaintext">
+    <body>
+      <trans-unit id="2cbfb6731610056e1d0aaacde07096c1">
+        <source>View my customer account</source>
+        <target>View my customer account</target>
+        <note>Context:
+File: /var/www/html/gitpresta/themes/classic-copy/modules/ps_customersignin/ps_customersignin.tpl:39</note>
+      </trans-unit>
+      <trans-unit id="d4151a9a3959bdd43690735737034f27">
+        <source>Log in to your customer account</source>
+        <target>Log in to your customer account</target>
+        <note>Context:
+File: /var/www/html/gitpresta/themes/classic-copy/modules/ps_customersignin/ps_customersignin.tpl:48</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/var/www/html/gitpresta/themes/classic-copy/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl" source-language="en-GB" target-language="en-GB" datatype="plaintext">
+    <body>
+      <trans-unit id="f2fc7490cbdb0db5cd6f1a4e7edb0da1">
+        <source>Your account</source>
+        <target>Your account</target>
+        <note>Context:
+File: /var/www/html/gitpresta/themes/classic-copy/modules/ps_customeraccountlinks/ps_customeraccountlinks.tpl:33</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
